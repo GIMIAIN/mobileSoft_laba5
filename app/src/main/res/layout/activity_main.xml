@@ -8,7 +8,7 @@
         android:id="@+id/priceEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Введите цену" /
+        android:hint="Введите цену" />
 
     <TextView
         android:id="@+id/discountTextView"
